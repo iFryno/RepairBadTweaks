@@ -11,7 +11,7 @@ As tweaking windows becomes more popular self proclaimed experts incorrectly int
 #### Option 1: 
 Run Script From Terminal or PowerShell Prompt as Admin
 ````
- irm 'https://raw.githubusercontent.com/zoicware/RepairBadTweaks/main/RepairTweaks.ps1' | iex 
+ irm 'https://raw.githubusercontent.com/iFryno/RepairBadTweaks/main/RepairTweaks.ps1' | iex 
  ````
 
  #### Option 2:
